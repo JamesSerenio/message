@@ -129,7 +129,7 @@ body{
 
 /* Animation - letter fully out */
 .flap > .envelope > .letter {
-  bottom: 170px; /* adjusted */
+  bottom: 190px; /* adjusted */
   transform: translateX(-50%) scale(1.25);
   transition-delay: 0.8s;
 }
